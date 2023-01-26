@@ -1,0 +1,9 @@
+Read Me
+>> blogbugabagi.blogspot.com <<
+Terima Kasih Jangan Lupa Mampir Lagi
+
+File sql ada di folder database
+Konfigurasi database di file koneksi.php
+
+Desain menggunakan Materializecss
+##Salam Berbagi
